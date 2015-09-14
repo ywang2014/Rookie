@@ -1,8 +1,8 @@
 # Rookie
 ## 程序员必备：技术面试准备手册
 
-一、数据结构基础
-    [Enter](https://github.com/ywang2014/Rookie/blob/master/BasicDataStructure.md "Title")inline link.
+### 一、数据结构基础
+####    [Enter](https://github.com/ywang2014/Rookie/blob/master/BasicDataStructure.md "Title")inline link.
 
 
 二、搜索基础
