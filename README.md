@@ -3,7 +3,7 @@
 
 一、数据结构基础
     
-    [Enter](https://github.com/ywang2014/Rookie/blob/master/BasicDataStructure.md "Title").
+    [Enter](https://github.com/ywang2014/Rookie/blob/master/BasicDataStructure.md )inline link.
 
 
 二、搜索基础
