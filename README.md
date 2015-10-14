@@ -5,7 +5,10 @@
 #### [Enter](https://github.com/ywang2014/Rookie/blob/master/BasicDataStructure.md )
 
 
-### 二、搜索基础
+### 二、经典排序
+#### [Enter](https://github.com/ywang2014/Rookie/blob/master/Sort.md "Title")  
+
+### 三、搜索基础
 #### [Enter](https://github.com/ywang2014/Rookie/blob/master/Search.md "Title")  
 
 广度优先搜索
