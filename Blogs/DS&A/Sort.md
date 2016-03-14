@@ -19,66 +19,68 @@
 [源代码](https://github.com/ywang2014/Rookie/tree/master/Src/sort/insertSort)
 
 ### 3.选择排序
-	时间复杂度：O(n^2) 		空间复杂度：O(1)	稳定排序
+	时间复杂度：O(n^2) 		空间复杂度：O(1)	不稳定排序
 	
 	基本思想：每次选择序列中最小的元素，添加到有序数列的末尾即可
 	
 [源代码](https://github.com/ywang2014/Rookie/tree/master/Src/sort/selectSort)
 
 ### 4.快速排序
-	时间复杂度：平均-O(n*log(n)) 最坏-O(n^2)
+	时间复杂度：平均-O(n*log(n)) 最坏-O(n^2)		空间复杂度：O(1)		不稳定排序
 	
-	空间复杂度：O(1)
+	基本思想：选择一个轴点，通过一次遍历，将数列分成两个部分，小于轴点的元素放在左边，大于轴点的数放在右边。然后
+	通过递归的方法，分别处理左边和右边部分，直到分为1个元素时，即排序完成。
 	
-	不稳定排序
-[源代码](https://github.com/ywang2014/Rookie/tree/master/Src/sort/bubbleSort)
+	优化：
+		1.三点取中法，解决快排对于有序数列的退化情况
+		2.借用随机数生成器，选择轴点，也可以处理有序数列的退化情况
+		3.对于很多相等数字情况，分三部分，小于轴点，等于轴点，大于轴点
+		4.元素少于10个的时候，使用插入排序，代替快速排序
+	
+[源代码](https://github.com/ywang2014/Rookie/tree/master/Src/sort/quickSort)
 
 ### 5.归并排序
-	时间复杂度：O(n*log(n))
+	时间复杂度：O(n*log(n))		空间复杂度：O(n+log(n))		稳定排序
 	
-	空间复杂度：O(n)
+	基本思想：将含有n个元素的序列看做n个含有一个元素的序列，两两归并，一直递归到最后。
 	
-	不稳定排序
 [源代码](https://github.com/ywang2014/Rookie/tree/master/Src/sort/bubbleSort)
 
 ### 6.堆排序
-	时间复杂度：O(n*log(n))
-	
-	空间复杂度：O(1)
-	
-	不稳定排序
+		时间复杂度：O(n*log(n))		空间复杂度：O(1)		不稳定排序
+		
+		基本思想：利用堆结构，进行排序。
+		第一步，将序列构造成一个大根堆，则序列的最大值即为堆的跟节点值，将堆顶元素与最后元素交换(即删除)，构造剩下的n-1个节点的堆，
+		最终剩下一个节点时，则排序完成。
+		
 [源代码](https://github.com/ywang2014/Rookie/tree/master/Src/sort/bubbleSort)
 
 ### 7.希尔排序
-	时间复杂度：与选择步长序列有关，最优的O(n*log(n))
+	时间复杂度：与选择步长序列有关，最优的O(n*log(n))		空间复杂度：O(1)		不稳定排序
 	
-	空间复杂度：O(1)
+	基本思想：
 	
-	不稳定排序
 [源代码](https://github.com/ywang2014/Rookie/tree/master/Src/sort/bubbleSort)
 
 ### 8.基数排序
-	时间复杂度：O(n)
+	时间复杂度：O(n)		空间复杂度：O(n+k)		稳定排序
 	
-	空间复杂度：O(n+k)
+	基本思想：
 	
-	稳定排序
 [源代码](https://github.com/ywang2014/Rookie/tree/master/Src/sort/bubbleSort)
 
 ### 9.计数排序
-	时间复杂度：O(n+k)
+	时间复杂度：O(n+k)		空间复杂度：O(n+k)		稳定排序
 	
-	空间复杂度：O(n+k)
+	基本思想：
 	
-	稳定排序
 [源代码](https://github.com/ywang2014/Rookie/tree/master/Src/sort/bubbleSort)
 
 ### 10.桶排序
-	时间复杂度：O(n)
+	时间复杂度：O(n)	空间复杂度：O(2n)		稳定排序
 	
-	空间复杂度：O(2n)
+	基本思想：
 	
-	稳定排序
 [源代码](https://github.com/ywang2014/Rookie/tree/master/Src/sort/bubbleSort)
 
 #### 相关定义

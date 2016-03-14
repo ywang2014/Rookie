@@ -11,6 +11,44 @@
 ### 三、搜索基础
 #### [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Search.md "Title")  
 
+## 算法学习进阶书籍
+参照google某程序猿的算法学习之路中，所列书单
+
+《算法导论》*
+
+《计算机程序设计艺术》*
+
+《数据结构与算法分析》
+
+《编程之美》*
+
+《微软梦工厂》*
+
+《算法设计与分析基础》
+
+《算法引论》
+
+《elements of programming》
+
+《C Interfaces and Implementation》
+
+《Language Implementation Patterns》
+
+《Algorithms on Strings, Trees and Sequences》
+
+《Writing Efficient Programs》
+
+《The Algorithm Design Manual》
+
+《编程珠玑》	《More Programming Pearls》
+
+《The Science of Progamming》
+
+《Algorithms》
+
+《Advance Data Structures》
+
+《SICP》*
 
 ## 总结
 #### 《数据结构与算法分析c语言版》
