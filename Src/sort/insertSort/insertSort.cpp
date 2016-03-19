@@ -4,6 +4,7 @@
 *	C++
 */
 
+// 版本一，直接向后交换，直到不需要交换为止
 void insertSort(int* data, unsigned int length)
 {
 	if (data == NULL || length == 0)
@@ -41,5 +42,32 @@ void insertSort(int* data, int length)
 			data[index] = date[--index];
 		}
 		data[index] = currentValue;
+	}
+}
+
+// 版本三：最简单明显的插入排序
+void insertSort(int* data, unsigned int length) 
+{
+	if (data == NULL && length == 0)
+	{
+		return ;
+	}
+	
+	for (unsigned int iter = 1; iter < length; i++)
+	{
+		if (data[iter] < data[iter-1] )
+		{
+			for (unsigned int index = iter; index > 0; index--)
+			{
+				if (data[index] < data[index- 1] )
+				{
+					swap(data[index], data[index-1] );
+				}
+				else
+				{
+					break;
+				}
+			}
+		}
 	}
 }
