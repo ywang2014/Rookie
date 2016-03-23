@@ -1,8 +1,9 @@
 /**
-* 	选择排序算法实现
+* 	归并排序算法实现
 *	
 *	C++
 */
+
 inline void swap(int& a, int& b)
 {
 	int temp = a;
@@ -42,7 +43,7 @@ void merge(int* data, unsigned int lo, unsigned int mid, unsigned hi)
 	int r_index = 0;
 	while (lo < hi)
 	{
-		while (l_index < l_len && (r_index >= r_len || l_data[l_index] < r_data[r_index]))
+		while (l_index < l_len && (r_index >= r_len || l_data[l_index] <= r_data[r_index]))
 		{
 			data[lo++] = l_data[l_index++];
 		}
