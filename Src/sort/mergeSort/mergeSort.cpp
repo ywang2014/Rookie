@@ -43,6 +43,7 @@ void merge(int* data, unsigned int lo, unsigned int mid, unsigned hi)
 	int r_index = 0;
 	while (lo < hi)
 	{
+		// 一定要处理等于的情况！
 		while (l_index < l_len && (r_index >= r_len || l_data[l_index] <= r_data[r_index]))
 		{
 			data[lo++] = l_data[l_index++];
