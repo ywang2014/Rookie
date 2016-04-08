@@ -65,7 +65,7 @@ void countSort(int* data, unsigned int length)
 	delete [] dataCopy;
 }
 
-// 版本二：不需要第二个辅助数组，不稳定(和原有序数组没有关系，不知道是否有序)
+// 版本二：不需要第二个辅助数组，不稳定(和原有序数组没有关系，不知道是否稳定)
 void countSort(int* data, unsigned int length)
 {
 	if (data == NULL && length == 0)
