@@ -4,12 +4,22 @@
 ### 一、数据结构基础
 #### [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/BasicDataStructure.md)
 
-
 ### 二、经典排序
 #### [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Sort.md "Title")  
 
 ### 三、搜索基础
 #### [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Search.md "Title")  
+
+#### 已读书单列表
+[The C Progamming Language]()
+
+[Data Structures and Algorithm Analysis in C]()
+
+[C++ Primer Plus]()
+
+[Expert C Programming]()
+
+[C Interfaces and Implementations]()
 
 ## 算法学习进阶书籍
 参照google某程序猿的算法学习之路中，所列书单
