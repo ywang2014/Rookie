@@ -11,15 +11,15 @@
 #### [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Search.md "Title")  
 
 #### 已读书单列表
-[The C Progamming Language]()
+[The C Progamming Language](https://github.com/ywang2014/Rookie/tree/master/Src/c_programming_language)
 
-[Data Structures and Algorithm Analysis in C]()
+[Data Structures and Algorithm Analysis in C](https://github.com/ywang2014/Rookie/tree/master/Src/dsa)
 
-[C++ Primer Plus]()
+[C++ Primer Plus](https://github.com/ywang2014/Rookie/tree/master/Src/c_plus_plus_primer_plus)
 
-[Expert C Programming]()
+[Expert C Programming](https://github.com/ywang2014/Rookie/tree/master/Src/expert_c)
 
-[C Interfaces and Implementations]()
+[C Interfaces and Implementations](https://github.com/ywang2014/Rookie/tree/master/Src/CInterfacesAndImplementations)
 
 ## 算法学习进阶书籍
 参照google某程序猿的算法学习之路中，所列书单
