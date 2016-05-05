@@ -10,6 +10,9 @@
 ### 三、搜索基础
 #### [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Search.md "Title")  
 
+### 四、算法基础
+#### [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Algorithm.md "Title")  
+
 #### 已读书单列表
 [The C Progamming Language](https://github.com/ywang2014/Rookie/tree/master/Src/c_programming_language)
 
@@ -20,6 +23,10 @@
 [Expert C Programming](https://github.com/ywang2014/Rookie/tree/master/Src/expert_c)
 
 [C Interfaces and Implementations](https://github.com/ywang2014/Rookie/tree/master/Src/CInterfacesAndImplementations)
+
+[Progamming Pearls](https://github.com/ywang2014/Rookie/tree/master/Src/ProgrammingPearls)
+
+[Algorithms](https://github.com/ywang2014/Rookie/tree/master/Src/Algorithms)
 
 ## 算法学习进阶书籍
 参照google某程序猿的算法学习之路中，所列书单
