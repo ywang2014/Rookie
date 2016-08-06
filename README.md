@@ -1,4 +1,24 @@
 # Rookie
+## 已读书单列表<a name = "book"> </a>
+[The C Progamming Language](https://github.com/ywang2014/Rookie/tree/master/Src/c_programming_language)
+
+[Data Structures and Algorithm Analysis in C](https://github.com/ywang2014/Rookie/tree/master/Src/dsa)
+
+[C++ Primer Plus](https://github.com/ywang2014/Rookie/tree/master/Src/c_plus_plus_primer_plus)
+
+[Code Complete](https://github.com/ywang2014/Rookie/tree/master/Src/code_complete)
+
+[The C++ Programming Language](https://github.com/ywang2014/Rookie/tree/master/Src/The_Cpp_Programming_Language)
+
+[Expert C Programming](https://github.com/ywang2014/Rookie/tree/master/Src/expert_c)
+
+[C Interfaces and Implementations](https://github.com/ywang2014/Rookie/tree/master/Src/CInterfacesAndImplementations)
+
+[Progamming Pearls](https://github.com/ywang2014/Rookie/tree/master/Src/ProgrammingPearls)
+
+[Algorithms](https://github.com/ywang2014/Rookie/tree/master/Src/Algorithms)
+
+
 ## 程序员必备：技术面试准备手册
 
 ### 一、数据结构基础
@@ -13,20 +33,6 @@
 ### 四、算法基础
 #### [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Algorithm.md "Title")  
 
-#### 已读书单列表
-[The C Progamming Language](https://github.com/ywang2014/Rookie/tree/master/Src/c_programming_language)
-
-[Data Structures and Algorithm Analysis in C](https://github.com/ywang2014/Rookie/tree/master/Src/dsa)
-
-[C++ Primer Plus](https://github.com/ywang2014/Rookie/tree/master/Src/c_plus_plus_primer_plus)
-
-[Expert C Programming](https://github.com/ywang2014/Rookie/tree/master/Src/expert_c)
-
-[C Interfaces and Implementations](https://github.com/ywang2014/Rookie/tree/master/Src/CInterfacesAndImplementations)
-
-[Progamming Pearls](https://github.com/ywang2014/Rookie/tree/master/Src/ProgrammingPearls)
-
-[Algorithms](https://github.com/ywang2014/Rookie/tree/master/Src/Algorithms)
 
 ## 算法学习进阶书籍
 参照google某程序猿的算法学习之路中，所列书单
