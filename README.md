@@ -1,5 +1,5 @@
 # Rookie
-## 已读书单列表<a name = "book"> </a>
+## <a name = "book"> </a>已读书单列表
 [The C Progamming Language](https://github.com/ywang2014/Rookie/tree/master/Src/c_programming_language)
 
 [Data Structures and Algorithm Analysis in C](https://github.com/ywang2014/Rookie/tree/master/Src/dsa)
@@ -21,18 +21,13 @@
 
 ## 程序员必备：技术面试准备手册
 
-### 一、数据结构基础
-#### [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/BasicDataStructure.md)
+### 一、数据结构基础 [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/BasicDataStructure.md)
 
-### 二、经典排序
-#### [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Sort.md "Title")  
+### 二、经典排序 [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Sort.md "Title")  
 
-### 三、搜索基础
-#### [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Search.md "Title")  
+### 三、搜索基础 [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Search.md "Title")  
 
-### 四、算法基础
-#### [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Algorithm.md "Title")  
-
+### 四、算法基础 [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Algorithm.md "Title")  
 
 ## 算法学习进阶书籍
 参照google某程序猿的算法学习之路中，所列书单
