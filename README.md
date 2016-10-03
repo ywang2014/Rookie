@@ -1,33 +1,37 @@
 # Rookie
 ## <a name = "book"> </a>已读书单列表
-[The C Progamming Language](https://github.com/ywang2014/Rookie/tree/master/Src/c_programming_language)
+[The C Progamming Language(Brian W.Kernighan,Dennis M.Ritchie)](https://github.com/ywang2014/Rookie/tree/master/Src/c_programming_language)
 
-[Data Structures and Algorithm Analysis in C](https://github.com/ywang2014/Rookie/tree/master/Src/dsa)
+[Data Structures and Algorithm Analysis in C(Mark Allen Weiss)](https://github.com/ywang2014/Rookie/tree/master/Src/dsa)
 
-[C++ Primer Plus](https://github.com/ywang2014/Rookie/tree/master/Src/c_plus_plus_primer_plus)
+[C++ Primer Plus(Stephen Prata)](https://github.com/ywang2014/Rookie/tree/master/Src/c_plus_plus_primer_plus)
 
-[Code Complete](https://github.com/ywang2014/Rookie/tree/master/Src/code_complete)
+[Code Complete(SteveMcConnell)](https://github.com/ywang2014/Rookie/tree/master/Src/code_complete)
 
-[The C++ Programming Language](https://github.com/ywang2014/Rookie/tree/master/Src/The_Cpp_Programming_Language)
+[The C++ Programming Language(Bjarne Stroustrup )](https://github.com/ywang2014/Rookie/tree/master/Src/The_Cpp_Programming_Language)
 
-[Expert C Programming](https://github.com/ywang2014/Rookie/tree/master/Src/expert_c)
+[Expert C Programming(Peter van der Linden)](https://github.com/ywang2014/Rookie/tree/master/Src/expert_c)
 
-[C Interfaces and Implementations](https://github.com/ywang2014/Rookie/tree/master/Src/CInterfacesAndImplementations)
+[C Interfaces and Implementations(DavidR.Hanson)](https://github.com/ywang2014/Rookie/tree/master/Src/CInterfacesAndImplementations)
 
-[Progamming Pearls](https://github.com/ywang2014/Rookie/tree/master/Src/ProgrammingPearls)
+[Progamming Pearls(Jon Bentley)](https://github.com/ywang2014/Rookie/tree/master/Src/ProgrammingPearls)
 
-[Algorithms](https://github.com/ywang2014/Rookie/tree/master/Src/Algorithms)
+[剑指Offer(何海涛)](https://github.com/ywang2014/Rookie/tree/master/Src/sword_offer)
+
+[Effective C++ 3rd Edition(Scott Meyers)](https://github.com/ywang2014/Rookie/tree/master/Src/effective_cpp)
+
+[Algorithms(Robert Sedgewick & Kevin Wayne)](https://github.com/ywang2014/Rookie/tree/master/Src/Algorithms)
 
 
 ## 程序员必备：技术面试准备手册
 
-### 一、数据结构基础 [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/BasicDataStructure.md)
+#### [数据结构基础](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/BasicDataStructure.md)
 
-### 二、经典排序 [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Sort.md "Title")  
+#### [经典排序](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Sort.md "Title")  
 
-### 三、搜索基础 [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Search.md "Title")  
+#### [搜索基础](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Search.md "Title")  
 
-### 四、算法基础 [Enter](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Algorithm.md "Title")  
+#### [算法基础](https://github.com/ywang2014/Rookie/blob/master/Blogs/DS%26A/Algorithm.md "Title")  
 
 ## 算法学习进阶书籍
 参照google某程序猿的算法学习之路中，所列书单
