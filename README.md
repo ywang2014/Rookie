@@ -8,7 +8,7 @@
 
 [Code Complete(SteveMcConnell)](https://github.com/ywang2014/Rookie/tree/master/Src/code_complete)
 
-[The C++ Programming Language(Bjarne Stroustrup )](https://github.com/ywang2014/Rookie/tree/master/Src/The_Cpp_Programming_Language)
+[The C++ Programming Language(Bjarne Stroustrup )](https://github.com/ywang2014/Rookie/tree/master/Src/the_cpp_programming_language)
 
 [Expert C Programming(Peter van der Linden)](https://github.com/ywang2014/Rookie/tree/master/Src/expert_c)
 
@@ -20,7 +20,7 @@
 
 [Effective C++ 3rd Edition(Scott Meyers)](https://github.com/ywang2014/Rookie/tree/master/Src/effective_cpp)
 
-[Algorithms(Robert Sedgewick & Kevin Wayne)](https://github.com/ywang2014/Rookie/tree/master/Src/Algorithms)
+[Algorithms(Robert Sedgewick & Kevin Wayne)](https://github.com/ywang2014/Rookie/tree/master/Src/algorithms)
 
 
 ## 程序员必备：技术面试准备手册
