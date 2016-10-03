@@ -1,26 +1,26 @@
 # Rookie
 ## <a name = "book"> </a>已读书单列表
-[The C Progamming Language(Brian W.Kernighan,Dennis M.Ritchie)](https://github.com/ywang2014/Rookie/tree/master/Src/c_programming_language)
+[The C Progamming Language (Brian W.Kernighan,Dennis M.Ritchie)](https://github.com/ywang2014/Rookie/tree/master/Src/c_programming_language)
 
-[Data Structures and Algorithm Analysis in C(Mark Allen Weiss)](https://github.com/ywang2014/Rookie/tree/master/Src/dsa)
+[Data Structures and Algorithm Analysis in C (Mark Allen Weiss)](https://github.com/ywang2014/Rookie/tree/master/Src/dsa)
 
-[C++ Primer Plus(Stephen Prata)](https://github.com/ywang2014/Rookie/tree/master/Src/c_plus_plus_primer_plus)
+[C++ Primer Plus (Stephen Prata)](https://github.com/ywang2014/Rookie/tree/master/Src/c_plus_plus_primer_plus)
 
-[Code Complete(SteveMcConnell)](https://github.com/ywang2014/Rookie/tree/master/Src/code_complete)
+[Code Complete (Steve McConnell)](https://github.com/ywang2014/Rookie/tree/master/Src/code_complete)
 
-[The C++ Programming Language(Bjarne Stroustrup )](https://github.com/ywang2014/Rookie/tree/master/Src/the_cpp_programming_language)
+[The C++ Programming Language (Bjarne Stroustrup )](https://github.com/ywang2014/Rookie/tree/master/Src/the_cpp_programming_language)
 
-[Expert C Programming(Peter van der Linden)](https://github.com/ywang2014/Rookie/tree/master/Src/expert_c)
+[Expert C Programming (Peter van der Linden)](https://github.com/ywang2014/Rookie/tree/master/Src/expert_c)
 
-[C Interfaces and Implementations(DavidR.Hanson)](https://github.com/ywang2014/Rookie/tree/master/Src/CInterfacesAndImplementations)
+[C Interfaces and Implementations (DavidR.Hanson)](https://github.com/ywang2014/Rookie/tree/master/Src/CInterfacesAndImplementations)
 
-[Progamming Pearls(Jon Bentley)](https://github.com/ywang2014/Rookie/tree/master/Src/ProgrammingPearls)
+[Progamming Pearls (Jon Bentley)](https://github.com/ywang2014/Rookie/tree/master/Src/ProgrammingPearls)
 
-[剑指Offer(何海涛)](https://github.com/ywang2014/Rookie/tree/master/Src/sword_offer)
+[剑指Offer (何海涛)](https://github.com/ywang2014/Rookie/tree/master/Src/sword_offer)
 
-[Effective C++ 3rd Edition(Scott Meyers)](https://github.com/ywang2014/Rookie/tree/master/Src/effective_cpp)
+[Effective C++ 3rd Edition (Scott Meyers)](https://github.com/ywang2014/Rookie/tree/master/Src/effective_cpp)
 
-[Algorithms(Robert Sedgewick & Kevin Wayne)](https://github.com/ywang2014/Rookie/tree/master/Src/algorithms)
+[Algorithms (Robert Sedgewick & Kevin Wayne)](https://github.com/ywang2014/Rookie/tree/master/Src/algorithms)
 
 
 ## 程序员必备：技术面试准备手册
